@@ -1,3 +1,4 @@
+bug 1234
 this is an "other" edit`
 tony.txt
 and another one.
