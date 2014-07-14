@@ -1,4 +1,6 @@
 newfeature
+new feature 4
+new feature 
 crazy bug
 bug 1234
 new feature 2
