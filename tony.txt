@@ -1,3 +1,4 @@
+newfeature
 crazy bug
 bug 1234
 this is an "other" edit`
