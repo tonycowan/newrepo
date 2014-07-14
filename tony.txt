@@ -1,6 +1,7 @@
 newfeature
 crazy bug
 bug 1234
+new feature 2
 this is an "other" edit`
 tony.txt
 and another one.
